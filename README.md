@@ -42,4 +42,4 @@
 
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6457894905999de060bc5914?variant=dark&roadmaps=)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6457894905999de060bc5914?variant=dark&roadmaps=)](https://roadmap.sh)
