@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Reza
+### 👋 Hi, I’m Reza
 - 🚀 Aspiring Fullstack Developer focused on the **MERN Stack**
 - 💻 Tech I use daily: `HTML`, `CSS`, `JavaScript`, `Tailwind`, `React`, `Redux Toolkit`, `RTK Query`
 - 🧠 Backend tools I’m familiar with: `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `Jest`
