@@ -2,7 +2,7 @@
 - 🚀 Aspiring Fullstack Developer focused on the **MERN Stack**
 - 💻 Tech I use daily: `HTML`, `CSS`, `JavaScript`, `Tailwind`, `React`, `Redux Toolkit`, `RTK Query`
 - 🧠 Backend tools I’m familiar with: `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `Jest`
-- 🌍 Currently learning **German 🇩🇪** und sharpening my **FrontEnd Skills**
+- 🌍 Currently sharpening my **FrontEnd/BackEnd/Network Skills** 🥲
 - 🕹️ Life formula = `Code 💻` + `Game 🎮` + `Gym 🏋️‍♂️`
 - 🎮 Zero professional experience, but 100% commitment and passion!
 - ⚡ Fun fact: I talk to my bugs more than I talk to people.
